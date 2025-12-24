@@ -109,7 +109,7 @@ npm run dev
 The database is **not included** in this repository.
 Below is the ER Diagram that shows tables, fields, and relationships designed for this project.
 
-![ER Diagram](./assets/ERP%20Diagram.png)
+![ER Diagram](./assets/ERP_Diagram.png)
 
 ---
 
