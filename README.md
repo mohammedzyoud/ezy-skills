@@ -6,7 +6,7 @@ The platform is structured with a clear separation between **frontend**, **backe
 This repository includes:
 - ✅ Frontend (React)
 - ✅ Backend (Node.js + Express)
-- ❌ Database files not uploaded (ER Diagram below)
+- ❌ Database files not uploaded (ERP Diagram below)
 
 ---
 
