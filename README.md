@@ -121,4 +121,3 @@ Full Stack Developer
 * Backend & Database Design
 * Frontend Integration
 
-```
