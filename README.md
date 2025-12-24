@@ -72,12 +72,12 @@ Create a `.env` file inside the `backend` folder:
 
 ```env
 PORT=5000
-DB_USER=postgres
 DB_HOST=localhost
-DB_NAME=ezyskills
-DB_PASSWORD=your_password
 DB_PORT=5432
-JWT_SECRET=your_secret_key
+DB_USER=ezyskills_user
+DB_PASSWORD=StrongPassword123
+DB_NAME=ezyskills
+JWT_SECRET=SuperSecretKey
 ```
 
 Run the backend server:
