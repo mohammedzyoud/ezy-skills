@@ -57,7 +57,7 @@ This repository includes:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ezyskills.git
+git clone https://github.com/mohammedzyoud/ezy-skills.git
 cd ezyskills
 ````
 
